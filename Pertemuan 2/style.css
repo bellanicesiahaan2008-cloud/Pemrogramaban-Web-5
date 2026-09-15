@@ -1,0 +1,48 @@
+#sapaan {
+    color: brown;
+    
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: burlywood;
+    margin: 0;
+}
+h1{
+    font-size: 36pt;
+}
+h2{
+    color: blue;
+}
+p{
+    margin-left: 50px;
+}
+#Contact{
+    height: auto;
+    background-color:beige;
+    padding: 20px;
+    text-align: center;
+}
+.judulc{
+    text-align: center;
+    background-color: bisque;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    height: 70px;
+}
+
+#About{
+    height: auto;
+    background-color:bisque;
+    padding: 20px;
+    text-align: center;
+}
+
+#Home{
+    background-color: antiquewhite;
+}
